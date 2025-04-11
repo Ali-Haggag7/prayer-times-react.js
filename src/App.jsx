@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+import './index.css';
 import Prayer from './component/prayer';
 import { useEffect, useState } from 'react';
 
